@@ -1,4 +1,4 @@
-""" Realiza alguas buscas dentro de uma string """
+""" Realiza algumas buscas dentro de uma string """
 
 frase = input('Digite seu nome completo: ').strip()
 
