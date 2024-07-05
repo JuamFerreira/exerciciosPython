@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="304d0947-052d-432b-a5c7-86d0cad745dd" name="Changes" comment="" />
+    <list default="true" id="304d0947-052d-432b-a5c7-86d0cad745dd" name="Changes" comment="[fix exe-39]" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,6 +25,9 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -36,20 +39,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.AlistamentoMilitar.executor": "Run",
-    "Python.aula012.executor": "Run",
-    "Python.aula013.executor": "Run",
-    "Python.aula014.executor": "Run",
-    "Python.extrairInteiro.executor": "Run",
-    "Python.playerMP3.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "develop",
-    "last_opened_file_path": "C:/Users/Juam Ferreira/PycharmProjects/exerciciosPython/midia"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.AlistamentoMilitar.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aula012.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aula013.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aula014.executor&quot;: &quot;Run&quot;,
+    &quot;Python.extrairInteiro.executor&quot;: &quot;Run&quot;,
+    &quot;Python.playerMP3.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;develop&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Juam Ferreira/PycharmProjects/exerciciosPython/midia&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Juam Ferreira\PycharmProjects\exerciciosPython\midia" />
@@ -192,6 +195,15 @@
       <option name="presentableId" value="Default" />
       <updated>1684782601300</updated>
     </task>
+    <task id="LOCAL-00001" summary="[fix exe-39]">
+      <option name="closed" value="true" />
+      <created>1720168727195</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1720168727195</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -216,5 +228,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="[fix]" />
+    <MESSAGE value="[fix exe-39]" />
+    <option name="LAST_COMMIT_MESSAGE" value="[fix exe-39]" />
   </component>
 </project>
