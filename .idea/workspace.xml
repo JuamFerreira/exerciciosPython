@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="304d0947-052d-432b-a5c7-86d0cad745dd" name="Changes" comment="[fix exe-39]">
-      <change afterPath="$PROJECT_DIR$/contagemRegressivaEOutrosFor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tabuada.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contagemRegressiva.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,56 +62,34 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.AlistamentoMilitar.executor": "Run",
-    "Python.analiseTriangulo.executor": "Run",
-    "Python.aula012.executor": "Run",
-    "Python.aula013.executor": "Run",
-    "Python.aula014.executor": "Run",
-    "Python.calculoIMC.executor": "Run",
-    "Python.categoriaAtleta.executor": "Run",
-    "Python.contagemRegressiva.executor": "Run",
-    "Python.contagemRegressivaEOutrosFor.executor": "Run",
-    "Python.extrairInteiro.executor": "Run",
-    "Python.jogoPedraPapelTesoura.executor": "Run",
-    "Python.media.executor": "Run",
-    "Python.miniSistemaDePagamento.executor": "Run",
-    "Python.playerMP3.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "develop",
-    "last_opened_file_path": "C:/Users/Juam Ferreira/PycharmProjects/exerciciosPython/midia"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.AlistamentoMilitar.executor&quot;: &quot;Run&quot;,
+    &quot;Python.analiseTriangulo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aula012.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aula013.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aula014.executor&quot;: &quot;Run&quot;,
+    &quot;Python.calculoIMC.executor&quot;: &quot;Run&quot;,
+    &quot;Python.categoriaAtleta.executor&quot;: &quot;Run&quot;,
+    &quot;Python.contagemRegressiva.executor&quot;: &quot;Run&quot;,
+    &quot;Python.contagemRegressivaEOutrosFor.executor&quot;: &quot;Run&quot;,
+    &quot;Python.extrairInteiro.executor&quot;: &quot;Run&quot;,
+    &quot;Python.jogoPedraPapelTesoura.executor&quot;: &quot;Run&quot;,
+    &quot;Python.media.executor&quot;: &quot;Run&quot;,
+    &quot;Python.miniSistemaDePagamento.executor&quot;: &quot;Run&quot;,
+    &quot;Python.playerMP3.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;develop&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Juam Ferreira/PycharmProjects/exerciciosPython/midia&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Juam Ferreira\PycharmProjects\exerciciosPython\midia" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.contagemRegressivaEOutrosFor">
-    <configuration name="analiseTriangulo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="exerciciosPython" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/analiseTriangulo.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.tabuada">
     <configuration name="calculoIMC" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="exerciciosPython" />
       <option name="ENV_FILES" value="" />
@@ -201,13 +178,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="tabuada" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="exerciciosPython" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tabuada.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.tabuada" />
         <item itemvalue="Python.contagemRegressivaEOutrosFor" />
         <item itemvalue="Python.jogoPedraPapelTesoura" />
         <item itemvalue="Python.miniSistemaDePagamento" />
         <item itemvalue="Python.calculoIMC" />
-        <item itemvalue="Python.analiseTriangulo" />
       </list>
     </recent_temporary>
   </component>
