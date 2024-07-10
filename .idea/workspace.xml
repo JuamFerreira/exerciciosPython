@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="304d0947-052d-432b-a5c7-86d0cad745dd" name="Changes" comment="[fix exe-39]">
-      <change afterPath="$PROJECT_DIR$/contagemRegressiva.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contagemRegressiva.py" beforeDir="false" afterPath="$PROJECT_DIR$/contagemRegressiva.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +21,26 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <favorite-branches>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="develop" />
+              </list>
+            </value>
+          </entry>
+          <entry type="REMOTE">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="origin/develop" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </favorite-branches>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
         <entry key="$PROJECT_DIR$" value="main" />
@@ -42,27 +62,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.AlistamentoMilitar.executor": "Run",
-    "Python.analiseTriangulo.executor": "Run",
-    "Python.aula012.executor": "Run",
-    "Python.aula013.executor": "Run",
-    "Python.aula014.executor": "Run",
-    "Python.calculoIMC.executor": "Run",
-    "Python.categoriaAtleta.executor": "Run",
-    "Python.contagemRegressiva.executor": "Run",
-    "Python.extrairInteiro.executor": "Run",
-    "Python.jogoPedraPapelTesoura.executor": "Run",
-    "Python.media.executor": "Run",
-    "Python.miniSistemaDePagamento.executor": "Run",
-    "Python.playerMP3.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "develop",
-    "last_opened_file_path": "C:/Users/Juam Ferreira/PycharmProjects/exerciciosPython/midia"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.AlistamentoMilitar.executor&quot;: &quot;Run&quot;,
+    &quot;Python.analiseTriangulo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aula012.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aula013.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aula014.executor&quot;: &quot;Run&quot;,
+    &quot;Python.calculoIMC.executor&quot;: &quot;Run&quot;,
+    &quot;Python.categoriaAtleta.executor&quot;: &quot;Run&quot;,
+    &quot;Python.contagemRegressiva.executor&quot;: &quot;Run&quot;,
+    &quot;Python.extrairInteiro.executor&quot;: &quot;Run&quot;,
+    &quot;Python.jogoPedraPapelTesoura.executor&quot;: &quot;Run&quot;,
+    &quot;Python.media.executor&quot;: &quot;Run&quot;,
+    &quot;Python.miniSistemaDePagamento.executor&quot;: &quot;Run&quot;,
+    &quot;Python.playerMP3.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;develop&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Juam Ferreira/PycharmProjects/exerciciosPython/midia&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Juam Ferreira\PycharmProjects\exerciciosPython\midia" />
@@ -217,6 +237,36 @@
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="main" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="HEAD" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="origin/develop" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="develop" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
